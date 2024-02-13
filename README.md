@@ -1,5 +1,5 @@
 # 💫 About Me:
-¡Hola! Soy Alejandro, un apasionado estudiante de 21 años originario de México, actualmente inmerso en el mundo de la Ingeniería en Sistemas Computacionales. Mi vida gira en torno a la búsqueda constante de nuevas habilidades y conocimientos<br>
+¡Hola! Soy Alejandro, un apasionado estudiante de 21 años originario de México, actualmente inmerso en el mundo de la Ingeniería en Sistemas Computacionales. Mi vida gira en torno a la búsqueda constante de nuevas habilidades y conocimientos<br><br>
 Fuera del ámbito técnico, mi vida está acompañada por la música, una constante en mi día a día. Además, encontrarás que soy un asiduo visitante del gimnasio, donde canalizo la misma disciplina y determinación que aplico a mis proyectos informáticos.<br>
 
 
