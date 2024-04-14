@@ -50,7 +50,6 @@ If you have any questions or suggestions, feel free to reach out to me. Thank yo
 </div>  
 
 
-</td></tr></table>  
 
 <br/>  
 
@@ -79,16 +78,7 @@ If you have any questions or suggestions, feel free to reach out to me. Thank yo
 
 
 
-<br/>  
 
-  
-
-<br/>  
-
-![Profile views counter](https://komarev.com/ghpvc/?username=AlexEP11&&style=flat-square)  
-  
-
-<br/>  
 
 
 <br />
