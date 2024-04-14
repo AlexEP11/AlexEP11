@@ -49,6 +49,7 @@ If you have any questions or suggestions, feel free to reach out to me. Thank yo
 <img src="https://styles.redditmedia.com/t5_2aqiti/styles/profileIcon_odmjevecebuc1.jpg?width=256&height=256&frame=1&auto=webp&crop=256:256,smart&s=257c7fad82f59d5e35b1b6b8819cb958fece45b7" align="center" height="150" width="150" />
 </div>  
 
+</td></tr></table>  
 
 
 <br/>  
