@@ -1,7 +1,7 @@
 ## Hey 👋, I'm Alejandro!  
   
 
-<img src="https://64.media.tumblr.com/0b26d836185b7286e2c18e408147f161/5bac9b34685ea9b4-cf/s640x960/f2309e95686b4028cb8c348705844be39fd54674.gifv" align="left" height="300" width="800" />  
+<img src="https://64.media.tumblr.com/0b26d836185b7286e2c18e408147f161/5bac9b34685ea9b4-cf/s640x960/f2309e95686b4028cb8c348705844be39fd54674.gifv" align="left" height="400" width="850" />  
   
 
 
