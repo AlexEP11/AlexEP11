@@ -43,20 +43,19 @@ If you have any questions or suggestions, feel free to reach out to me. Thank yo
 - ⚡ Fun fact: I love cats and dogs  
 
 
-</td><td valign="top" width="50%">
+
 
 <div align="center">
 <img src="https://styles.redditmedia.com/t5_2aqiti/styles/profileIcon_odmjevecebuc1.jpg?width=256&height=256&frame=1&auto=webp&crop=256:256,smart&s=257c7fad82f59d5e35b1b6b8819cb958fece45b7" align="center" height="150" width="150" />
 </div>  
 
-</td></tr></table>  
 
 
 <br/>  
 
 
 ## Languages and Tools  
-<div align="center">  
+<div align="center" margin-left=5px>  
 <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
 <a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  
 <a href="https://sass-lang.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/sass-original.svg" alt="Sass" height="50" /></a>  
