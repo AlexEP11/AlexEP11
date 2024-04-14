@@ -70,14 +70,6 @@ If you have any questions or suggestions, feel free to reach out to me. Thank yo
 <br/>  
 
 
-<table><tr><td valign="top" width="50%">
-
-
-
-</td><td valign="top" width="50%">
-
-
-
 
 
 
