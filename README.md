@@ -32,7 +32,6 @@ If you have any questions or suggestions, feel free to reach out to me. Thank yo
 
 
 ## Rapidfire  
-<table><tr><td valign="top" width="50%">
 
 - 🌱 I’m currently learning Node.js  
   
