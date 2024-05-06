@@ -68,7 +68,7 @@ If you have any questions or suggestions, feel free to reach out to me. Thank yo
 <br/>  
 
 <div align="center" margin-left=15px>  
-  <img src="https://www.codewars.com/users/AlexEP11/badges/large"/>
+  <a href="https://www.codewars.com/users/AlexEP11" target="_blank"> <img src="https://www.codewars.com/users/AlexEP11/badges/large" alt="Codewars" /></a>  
 </div>  
 
 
