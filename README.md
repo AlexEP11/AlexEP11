@@ -67,11 +67,7 @@ If you have any questions or suggestions, feel free to reach out to me. Thank yo
 
 <br/>  
 
-## Codewars
-<div align="center" margin-left=15px>  
-  <a href="https://www.codewars.com/users/AlexEP11" target="_blank"> <img src="https://www.codewars.com/users/AlexEP11/badges/large" alt="Codewars" /></a>  
-</div>  
-
-<br />
-
+<div align="center">  
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=AlexEP11&label=Profile%20views&color=1d1717&style=flat" alt="AlexEP11" /> </p>
+</div>
 ----
