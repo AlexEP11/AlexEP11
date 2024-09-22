@@ -6,7 +6,7 @@
 
 
 
-## Glad to see you here!  
+## 👀 Glad to see you here! 
 Hi there! 👋 I'm Alejandro, a computer systems engineering student. I'm passionate about learning new technologies and constantly improving my skills. While I don't have professional experience in the field yet, I enjoy creating personal projects that help me gain hands-on experience and expand my knowledge.
 
 On my profile, you'll find examples of my work, including projects in programming, web development, and other areas related to software engineering. I'm always open to collaborating on interesting projects and learning from other professionals.
@@ -28,7 +28,7 @@ If you have any questions or suggestions, feel free to reach out to me. Thank yo
 <br/>  
 
 
-## Rapidfire  
+## 👻 Know me  
 
 - 🌱 I’m currently learning JavaScript 
   
